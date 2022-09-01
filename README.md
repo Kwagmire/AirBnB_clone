@@ -1,1 +1,1 @@
-wait for it
+This is an Air BNB Clone Project by Muyiwa Babawale and Abdullah Olayiwola making use of all fuctions of C and Python
